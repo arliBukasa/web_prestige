@@ -13,7 +13,7 @@
 
             <div class="text-center small mt-3 pt-1 border-top" t-if="not disable_footer">
               <t t-if="not disable_database_manager">
-                  <a href="/web/database/manager">Manage Databases</a>
+                  <a href="www.bulkasoft.com">www.bulkasoft.com</a>
               </t>
             </div>
           </div>
